@@ -1,7 +1,14 @@
 aio-pika==10.0.1
 aiosmtplib==2.0.2
 aiosqlite==0.22.1
-
+fastapi
+uvicorn[standard]
+numpy==1.26.4
+pandas==2.2.3
+setuptools
+wheel
+psycopg2-binary
+sqlalchemy
 alembic==1.19.0
 asyncpg==0.31.0
 
